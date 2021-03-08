@@ -28,3 +28,30 @@
  *   c. The tests are CASE sensitive, so you MUST console.log('Good Night!') with
  *      the exact case.
  */
+function myFuncGreet = "Good Morning"; {
+console.log
+
+  if (hours between = 0 <& 11)
+  
+}
+
+function myFuncGreet = "Good Afternoon"; {
+console.log
+ 
+ if (hours between = 12 > & < = 16)
+
+}
+
+function myFuncGreet = "Good Evening"; {
+  console.log
+
+  if (hours between = 17 > & < = 21)
+
+}
+
+function myFuncGreet = "Good Night"; {
+  console.log
+
+  if (hours between = 22 > & < = 24 )
+
+}
